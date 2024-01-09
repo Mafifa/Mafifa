@@ -7,8 +7,8 @@ Hi, I'm Mafifa! I'm a systems engineering student who is passionate about making
 const MAFIFA = {
   pronouns = "he" | "him",
   code = [JavaScript, HTML, CSS, TypeScript, Kotlin, Python],
-  tools = [React, Node, Docker, Django],
-  area = [Backend, Fullstack];
+  tools = [React, NodeJS, Docker, Django],
+  area = [Backend, Frontend, Fullstack];
 }
 ```
 <!--![Mafifa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mafifa) -->
