@@ -11,7 +11,6 @@ const MAFIFA = {
   area = [Backend, Frontend, Fullstack];
 }
 ```
-![Mafifa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mafifa) 
 
 #### Find me around the web 🌎:
 
