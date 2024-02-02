@@ -7,7 +7,7 @@ Hi, I'm Mafifa! I'm a systems engineering student who is passionate about making
 const MAFIFA = {
   pronouns = "he" | "him",
   code = [JavaScript, HTML, CSS, TypeScript, Kotlin, Python],
-  tools = [React, NodeJS, Astro, Docker, Django, SQL],
+  tools = [React, NodeJS, Astro, Docker, Django, SQL, MongoDB],
   area = [Backend, Frontend, Fullstack];
 }
 ```
