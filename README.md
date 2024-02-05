@@ -20,7 +20,7 @@ const MAFIFA = {
 - <img src="https://github.com/Mafifa/Mafifa/assets/120286152/8f168798-d461-4e73-b283-9c805023bc3f" alt="Logo de Markdown" style="width:20px;"/> OvethCoin.
 - 🌱  Always learning JavaScript, TypeScript and everything related to that.
 
-
+Man, I love prettier
 <!--
 **Mafifa/Mafifa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
