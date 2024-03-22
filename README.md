@@ -17,10 +17,11 @@ const MAFIFA = {
 - <img src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" alt="Logo de twitter" style="width:24px;"/> Sharing updates and following markets on <a href=https://twitter.com/Mafifa_Charlys>Twitter</a> 💼
 
 #### Working on:
-- <img src="https://github.com/Mafifa/Mafifa/assets/120286152/8f168798-d461-4e73-b283-9c805023bc3f" alt="Logo de Markdown" style="width:20px;"/> OvethCoin.
 - 🌱  Always learning JavaScript, TypeScript and everything related to that.
+- Creating the world's best Notepad
+- Making a desktop application for you to use the pomodoro technique
 
-Man, I love prettier and astro is the ebst thing that the world have
+Man, I love Astro is the ebst thing that the world have
 <!--
 **Mafifa/Mafifa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
