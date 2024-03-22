@@ -18,8 +18,8 @@ const MAFIFA = {
 
 #### Working on:
 - 🌱  Always learning JavaScript, TypeScript and everything related to that.
-- Creating the world's best Notepad
-- Making a desktop application for you to use the pomodoro technique
+- 📝  Creating the world's best Notepad
+- ⏲  Making a desktop application for you to use the pomodoro technique
 
 Man, I love Astro is the ebst thing that the world have
 <!--
