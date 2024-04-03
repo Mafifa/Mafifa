@@ -20,6 +20,7 @@ const MAFIFA = {
 - 🌱  Always learning JavaScript, TypeScript and everything related to that.
 - 📝  Creating the world's best Notepad
 - ⏲  Making a desktop application for you to use the pomodoro technique
+- If you speak Spanish take a look at this book blog, we have the best book reviews <a href=https://fer-books.vercel.app/>fer-books</a>
 
 Man, I love Astro is the ebst thing that the world have
 <!--
