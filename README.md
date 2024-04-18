@@ -19,7 +19,7 @@ const MAFIFA = {
 #### Working on:
 - 🌱  Always learning JavaScript, TypeScript and everything related to that.
 - 📝  Creating the world's best Notepad
-- ⏲  Making a desktop application for you to use the pomodoro technique
+- ⏲  Making a desktop application for you to use the pomodoro technique version 1.0.0 available <a href=https://mega.nz/file/d8sUULBT#cA_8EwSMbKfmn8KDViMgNporxhWCyO_MDwIUzwnQoGA>Mafifa-Pomodoro</a>
 - If you speak Spanish take a look at this book blog, we have the best book reviews <a href=https://fer-books.vercel.app/>fer-books</a>
 
 Man, I love Astro is the ebst thing that the world have
