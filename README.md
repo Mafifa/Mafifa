@@ -8,7 +8,7 @@ const MAFIFA = {
   pronouns = "he" | "him",
   code = [JavaScript, HTML, CSS, TypeScript, Kotlin],
   tools = [React, NodeJS, Astro, Docker, SQL, MongoDB],
-  area = [Backend, Frontend, Fullstack];
+  area = [Backend, Frontend];
 }
 ```
 
