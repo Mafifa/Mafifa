@@ -4,6 +4,9 @@ Hi, I'm Mafifa! I'm a systems engineering student who is passionate about making
 
 ### Abuout me in code
 ```js
+
+while(!success==try());
+
 const MAFIFA = {
   pronouns = "he" | "him",
   code = [JavaScript, HTML, CSS, TypeScript, Kotlin],
