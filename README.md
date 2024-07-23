@@ -1,6 +1,5 @@
 # Hello 👋🏻👨🏻‍💻
 
-IDontKnowWhatWriteHere
 Hi, I'm Mafifa! Commit for not to die I'm a systems engineering student who is passionate about making open-source more accessible, creating technology to elevate people, and building community.
 
 ### Abuout me in code
