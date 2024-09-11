@@ -10,7 +10,7 @@ while(!success = try());
 const MAFIFA = {
   pronouns = "he" | "him",
   code = [JavaScript, HTML, CSS, TypeScript, Kotlin],
-  tools = [React, NodeJS, Astro, Docker, SQL, MongoDB, Electron],
+  tools = [React, ReactNative, NodeJS, Astro, Docker, SQL, MongoDB, Electron],
   area = [Backend, Frontend, Fullstack];
 }
 ```
