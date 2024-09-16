@@ -6,13 +6,13 @@ Hi, I'm Mafifa! Commit for not to die I'm a systems engineering student who is p
 ```js
 
 // Estoico en codigo
-while(!success = try());
+while(!success = try())
 
 const MAFIFA = {
   pronouns = "he" | "him",
   code = [JavaScript, HTML, CSS, TypeScript, Kotlin],
   tools = [React, ReactNative, NodeJS, Astro, Docker, SQL, MongoDB, Electron],
-  area = [Backend, Frontend, Fullstack];
+  area = [Backend, Frontend, Fullstack]
 }
 ```
 
