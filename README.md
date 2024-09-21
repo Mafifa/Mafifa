@@ -6,7 +6,7 @@ Hi, I'm Mafifa! Commit for not to die I'm a systems engineering student who is p
 ```js
 
 // Estoico en codigo
-while(!success = try())
+while(!success = try()) // keep coding
 
 const MAFIFA = {
   pronouns = "he" | "him",
