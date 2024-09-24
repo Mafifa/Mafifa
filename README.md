@@ -5,7 +5,8 @@ Hi, I'm Mafifa! Commit for not to die I'm a systems engineering student who is p
 ### Abuout me in code
 ```js
 
-// Estoico en codigo
+// Estoico en codigo <--- PONER EN INGLES
+
 while(!success = try()) // keep coding
 
 const MAFIFA = {
