@@ -5,10 +5,6 @@ Hi, I'm Mafifa! Commit for not to die I'm a systems engineering student who is p
 ### Abuout me in code
 ```js
 
-// Deberia de agregar algunas cosas a estaparte, como uns badges
-
-//
-
 while(!success = try()) // keep coding
 
 const MAFIFA = {
