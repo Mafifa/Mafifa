@@ -21,6 +21,18 @@ Hi, I'm Mafifa! Commit for not to die I'm a systems engineering student who is p
 <br/>
 <br/>
 
+### 📺 Latest YouTube Videos
+
+<!-- BEGIN YOUTUBE-CARDS -->
+[![Java just got faster](https://ytcards.demolab.com/?id=b-sKmiVB4g8&title=Java+just+got+faster&lang=en&timestamp=1742320728&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=226 "Java just got faster")](https://www.youtube.com/watch?v=b-sKmiVB4g8)
+[![Software Engineers are WRONG about AI "taking our jobs"](https://ytcards.demolab.com/?id=4Sj4-kYi0J0&title=Software+Engineers+are+WRONG+about+AI+%22taking+our+jobs%22&lang=en&timestamp=1741789856&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1682 "Software Engineers are WRONG about AI \"taking our jobs\"")](https://www.youtube.com/watch?v=4Sj4-kYi0J0)
+[![Vibe coders are struggling.](https://ytcards.demolab.com/?id=yIwGl8YK18Y&title=Vibe+coders+are+struggling.&lang=en&timestamp=1741703586&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=669 "Vibe coders are struggling.")](https://www.youtube.com/watch?v=yIwGl8YK18Y)
+[![Building My DREAM Home Office Ep. 1 // It's Just Sticks Right Now](https://ytcards.demolab.com/?id=T1hWCaC_N0Y&title=Building+My+DREAM+Home+Office+Ep.+1+%2F%2F+It%27s+Just+Sticks+Right+Now&lang=en&timestamp=1741521629&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=426 "Building My DREAM Home Office Ep. 1 // It's Just Sticks Right Now")](https://www.youtube.com/watch?v=T1hWCaC_N0Y)
+[![I finally got access to Claude Code... i'm not a fan](https://ytcards.demolab.com/?id=W13MloZg03Y&title=I+finally+got+access+to+Claude+Code...+i%27m+not+a+fan&lang=en&timestamp=1741356038&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1349 "I finally got access to Claude Code... i'm not a fan")](https://www.youtube.com/watch?v=W13MloZg03Y)
+[![Rust is Killing C++](https://ytcards.demolab.com/?id=ZQyrrMqLT2s&title=Rust+is+Killing+C%2B%2B&lang=en&timestamp=1741191302&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=364 "Rust is Killing C++")](https://www.youtube.com/watch?v=ZQyrrMqLT2s)
+<!-- END YOUTUBE-CARDS -->
+
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@projectMafifa)
 
 #### Find me around the web 🌎:
 
@@ -28,21 +40,8 @@ Hi, I'm Mafifa! Commit for not to die I'm a systems engineering student who is p
 
 #### Working on:
 - 🌱  Always learning JavaScript, TypeScript and everything related to that.
-- ⏲  Making a desktop application for you to use the pomodoro technique version 1.0.0 available <a href=https://mega.nz/file/d8sUULBT#cA_8EwSMbKfmn8KDViMgNporxhWCyO_MDwIUzwnQoGA>Mafifa-Pomodoro</a>
+- 📁  Making a desktop application for transfer Files Quick and Easy <a href="https://github.com/Mafifa/theway">TheWay</a>
 - If you speak Spanish take a look at this book blog, we have the best book reviews <a href=https://fer-books.vercel.app/>fer-books</a>
 
 Astro lover. Is the best thing that the world have.
-<!--
-**Mafifa/Mafifa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
