@@ -27,7 +27,7 @@ Hi, I'm Mafifa! Commit for not to die I'm a systems engineering student who is p
 
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@projectMafifa)
+<!-- [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@projectMafifa) -->
 
 #### Find me around the web 🌎:
 
