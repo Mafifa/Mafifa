@@ -4,6 +4,7 @@ Hi, I'm Mafifa! Commit for not to die I'm a systems engineering student who is p
 
 ### 🧰 Languages and Tools
 
+<div align="center">
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />       
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -18,11 +19,12 @@ Hi, I'm Mafifa! Commit for not to die I'm a systems engineering student who is p
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
+</div>
 <br/>
 <br/>
 
 <div align="center">
-  <table style="background-color: #1a1a1a; border-radius: 15px; border-collapse: separate; border-spacing: 0; max-width: 800px; margin: 0 auto; padding: 10px;">
+  <table style="background-color: #1a1a1a; border-radius: 15px; border-collapse: separate; border-spacing: 0; max-width: 700px; margin: 0 auto; padding: 10px;">
     <tr>
       <td>
         <table style="background-color: #b8860b; border-radius: 12px; border-collapse: separate; border-spacing: 0; width: 100%;">
@@ -31,7 +33,7 @@ Hi, I'm Mafifa! Commit for not to die I'm a systems engineering student who is p
               <table style="background-color: #2a1a0a; border-radius: 16px; border-collapse: separate; border-spacing: 0; width: 100%;">
                 <tr>
                   <td style="padding: 10px; text-align: center;">
-                    <img src="images/eyep.png" alt="EyeP Icon" style="width: 100%; border-radius: 12px;">
+                    <img src="images/eyep.png" alt="EyeP Icon" style="width: 200px; border-radius: 12px;">
                   </td>
                 </tr>
               </table>
