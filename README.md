@@ -32,10 +32,6 @@ Hi, I'm Mafifa! Commit for not to die I'm a systems engineering student who is p
 
 <!-- [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@projectMafifa) -->
 
-#### Find me around the web 🌎:
-
-- <img src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" alt="Logo de twitter" style="width:24px;"/> Sharing updates and following markets on <a href=https://twitter.com/Mafifa_Charlys>Twitter</a> 💼
-
 #### Working on:
 
 - 🌱 Always learning JavaScript, TypeScript and everything related to that.
