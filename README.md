@@ -40,6 +40,5 @@ Hi, I'm Mafifa! Commit for not to die I'm a systems engineering student who is p
 
 - 🌱 Always learning JavaScript, TypeScript and everything related to that.
 - 📁 Making a desktop application for transfer Files Quick and Easy <a href="https://github.com/Mafifa/theway">TheWay</a>
-- If you speak Spanish take a look at this book blog, we have the best book reviews <a href=https://fer-books.vercel.app/>fer-books</a>
 
 Astro lover. Is the best thing that the world have.
